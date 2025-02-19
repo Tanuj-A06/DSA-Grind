@@ -32,5 +32,5 @@ int main(){
 /**
  * DOCUMENTATION:
  * initialized d=flase to avoid repetition since i and j must be chosen only once.
- * after checking for ai==aj made aj==0 so it cant be resued and twerked the conditions to avoid repitation in countings.
+ * after checking for ai==aj made aj==0 so it cant be resued and twerked the conditions to avoid repetition in countings.
  */
